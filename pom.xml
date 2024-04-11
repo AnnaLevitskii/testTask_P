@@ -16,6 +16,14 @@
     </properties>
     <dependencies>
         <dependency>
+            <groupId>riskAssessmentLib</groupId>
+            <artifactId>riskAssessmentLib</artifactId>
+            <version>0.1</version>
+            <type>jar</type>
+            <scope>system</scope>
+            <systemPath>/Users/anna/Documents/GitHub/riskAssessmentLib0.1/lib/build/libs/lib.jar</systemPath>
+        </dependency>
+        <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-java</artifactId>
             <version>4.17.0</version>
